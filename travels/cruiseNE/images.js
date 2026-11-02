@@ -214,10 +214,10 @@ const caps = [
 // Array of image descriptions
 const desc = [
 	"Statue of Liberty on Liberty Island. A gift to the United States from the people of France. Dedicated in 1886.",
-	"Brooklin Bridge, Brooklin. Spanning the East River between the burroghs of Manhattan and Brooklin.",
+	"Brooklyn Bridge, Brooklyn. Spanning the East River between the burroghs of Manhattan and Brooklyn.",
 	"Manhattan, New York downtown with Empire State building centered.",
 	"Manhattan, New York downtown.",
-	"Brooklin Bridge, Brooklin.",
+	"Brooklyn Bridge, Brooklyn.",
 	"Verrazzano-Narrows Bridge, Staten Island, heading out on Vista.",
 	"Looking back from walk along the cliff.",
 	"Looking back from walk along the cliff.",
